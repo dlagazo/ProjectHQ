@@ -1,0 +1,9 @@
+c:\users\ctc208\documents\visual studio 2015\Projects\ProjectHQ\ProjectHQ\bin\Debug\ProjectHQ.exe.config
+c:\users\ctc208\documents\visual studio 2015\Projects\ProjectHQ\ProjectHQ\bin\Debug\ProjectHQ.exe
+c:\users\ctc208\documents\visual studio 2015\Projects\ProjectHQ\ProjectHQ\bin\Debug\ProjectHQ.pdb
+c:\users\ctc208\documents\visual studio 2015\Projects\ProjectHQ\ProjectHQ\obj\Debug\ProjectHQ.csprojResolveAssemblyReference.cache
+c:\users\ctc208\documents\visual studio 2015\Projects\ProjectHQ\ProjectHQ\obj\Debug\ProjectHQ.Form1.resources
+c:\users\ctc208\documents\visual studio 2015\Projects\ProjectHQ\ProjectHQ\obj\Debug\ProjectHQ.Properties.Resources.resources
+c:\users\ctc208\documents\visual studio 2015\Projects\ProjectHQ\ProjectHQ\obj\Debug\ProjectHQ.csproj.GenerateResource.Cache
+c:\users\ctc208\documents\visual studio 2015\Projects\ProjectHQ\ProjectHQ\obj\Debug\ProjectHQ.exe
+c:\users\ctc208\documents\visual studio 2015\Projects\ProjectHQ\ProjectHQ\obj\Debug\ProjectHQ.pdb
